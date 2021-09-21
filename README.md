@@ -4,4 +4,4 @@
 > 1983年東京生まれ。
 2008年 東京工芸大学 芸術学部 映像学科を卒業後、株式会社ピクト入社。カメラアシスタントとしてCM、MV、映画制作に携わる。五年間勤務した後に退社しフリーランスとしてカメラマン、カメラアシスタントとして主にCM、MV制作に携わり現在に至る。現在はARコンテンツの個人制作を行う。
 
-https://github.com/ukikaneda/ukikaneda/issues/1#issue-1002889704
+![nf35b-licfa](https://user-images.githubusercontent.com/90745663/134216120-af652df5-2bb4-4b22-b9d6-3ec84492b138.gif)
